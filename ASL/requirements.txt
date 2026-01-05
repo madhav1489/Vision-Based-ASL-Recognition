@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+pyttsx3
+pyenchant
+Pillow
+joblib
+
